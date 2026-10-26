@@ -1,7 +1,7 @@
 # adm-assets
 
 Hosting gambar carousel Instagram @alyadailymakeup (dijadwalkan lewat Buffer).
-Juga dipakai untuk video Reels @alya.bercerita (seri Dijodohin): satu folder berisi `video.mp4` dan `cover.jpg`.
+Juga dipakai untuk video Reels @alya.bercerita (seri Dijodohin): satu folder berisi video (`reel.mp4`, frame pertamanya sengaja berupa cover karena Buffer tidak menerima cover terpisah) dan `cover.jpg`.
 
 Struktur: satu folder per postingan.
 
